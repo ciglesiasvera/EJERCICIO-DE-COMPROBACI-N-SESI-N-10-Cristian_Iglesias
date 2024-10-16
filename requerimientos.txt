@@ -1,0 +1,19 @@
+CUE: EL SITIO ADMINISTRATIVO DE DJANGO I
+REBOUND EXERCISE: GESTIÓN DEL PANEL ADMINISTRATIVO DE DJANGO
+Para resolver este ejercicio, anteriormente debe haber revisado 
+la lectura y los videos del CUE: El Sitio 
+Administrativo de Django I.
+EJERCICIO:
+Para esta revisión práctica del sitio de administración de Django se debe:
+• Autorizar los archivos de configuración para habilitar el sitio 
+administrativo de Django:
+http://localhost:8000/admin
+• Crear un superusuario.
+• Registrar la aplicación Book en el sitio administrativo de Django.
+• Configurar con la finalidad de que el sitio administrativo aparezca 
+como Libro y Libros, 
+respectivamente.
+• Agregar dos atributos especiales al modelo del tipo fecha: uno que se 
+refiere a la fecha de creación 
+(fecha_creacion), y el otro a la fecha de modificación (fecha_modificacion).
+
